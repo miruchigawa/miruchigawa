@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm 海松</h1>
 <h3 align="center">A programmer, bot developer and otaku</h3>
 
+<div align="center">
+  <video align="center" controls>
+    <source src="/assets/introducing.mp4" type="video/mp4">
+  </video>
+</div>
+
 <p align="left"> <a href="https://twitter.com/miruchigawa" target="blank"><img src="https://img.shields.io/twitter/follow/miruchigawa?logo=twitter&style=for-the-badge" alt="miruchigawa" /></a> </p>
 
 - 🔭 I’m currently working on **Luna Project**
