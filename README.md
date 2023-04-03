@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm 海松</h1>
 <h3 align="center">A programmer, bot developer and otaku</h3>
 
-<div align="center">
-  <video align="center" controls>
-    <source src="/assets/introducing.mp4" type="video/mp4">
-  </video>
-</div>
 
 <p align="left"> <a href="https://twitter.com/miruchigawa" target="blank"><img src="https://img.shields.io/twitter/follow/miruchigawa?logo=twitter&style=for-the-badge" alt="miruchigawa" /></a> </p>
 
@@ -14,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Lua, Java**
 
-- 👨‍💻 All of my projects are available at [miftahfauzan.netlify.app](miftahfauzan.netlify.app)
+- 🔥 序章 [click me](/assets/introducing.mp4)
 
 - 📫 How to reach me **mizumichigawa@gmail.com**
 
