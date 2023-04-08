@@ -12,6 +12,7 @@
 - 🔥 序章 [click me](/assets/introducing.mp4)
 
 - 📫 How to reach me **miruchigawa@outlook.jp**
+- ⚡ Check my cool project [https://axuint.netlify.app](https://axuint.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
