@@ -11,7 +11,7 @@
 
 - 🔥 序章 [click me](/assets/introducing.mp4)
 
-- 📫 How to reach me **mizumichigawa@gmail.com**
+- 📫 How to reach me **miruchigawa@outlook.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
