@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm 海松</h1>
 <h3 align="center">A programmer, bot developer and otaku</h3>
 
-https://raw.githubusercontent.com/miruchigawa/miruchigawa/master/assets/introducing.mp4
 
 <p align="left"> <a href="https://twitter.com/miruchigawa" target="blank"><img src="https://img.shields.io/twitter/follow/miruchigawa?logo=twitter&style=for-the-badge" alt="miruchigawa" /></a> </p>
 
