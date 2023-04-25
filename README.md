@@ -1,4 +1,4 @@
-<div align="center"> <img  src="/assets/pic.jpeg" width="100px" /></div>
+<div align="center"> <img  src="https://avatars.githubusercontent.com/u/99255321?v=4" width="100px" /></div>
 <h1 align="center">Hi 👋, I'm 海松</h1>
 <h3 align="center">A programmer, bot developer and otaku</h3>
 
