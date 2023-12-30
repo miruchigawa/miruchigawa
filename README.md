@@ -12,3 +12,6 @@ CPU: AMD Ryzen 9 5950X (32) @ 3.400GHz
 GPU: NVIDIA Geforce RTX 2070 SUPER
 Memory: 4146MiB / 64391MiB
 ```
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miruchugawa&layout=compact)
