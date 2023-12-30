@@ -14,4 +14,4 @@ Memory: 4146MiB / 64391MiB
 ```
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miruchugawa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miruchigawa&layout=compact)
