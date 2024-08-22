@@ -1,3 +1,4 @@
+> Hiraku Katsumi (開 勝美) is my real name written on japanese name. I'm a CS Student and a researcher. I Love computer think and always find something new.
 
 ```bash
 > neofetch
